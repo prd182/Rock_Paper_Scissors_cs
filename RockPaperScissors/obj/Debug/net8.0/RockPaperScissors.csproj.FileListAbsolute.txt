@@ -1,0 +1,15 @@
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfoInputs.cache
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfo.cs
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.sourcelink.json
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.exe
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.deps.json
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.runtimeconfig.json
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.dll
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.pdb
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.dll
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\obj\Debug\net8.0\refint\RockPaperScissors.dll
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.pdb
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.genruntimeconfig.cache
+D:\Utilizadores\Pedro Dias\Documents\AdC\Python\Rock_Paper_Scissors\Rock_Paper_Scissors_py\RockPaperScissors\obj\Debug\net8.0\ref\RockPaperScissors.dll
