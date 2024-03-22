@@ -1,4 +1,5 @@
-# Rock_Paper_Scissors_cs
- A console app of the game Rock, Paper, Scissors.
+# Rock_Paper_Scissors
+ A console application of the game Rock, Paper, Scissors.
  
- Made in C#
+ ***Languages used:***
+ - C#
