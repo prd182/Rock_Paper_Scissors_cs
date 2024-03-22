@@ -1,4 +1,4 @@
-# Rock_Paper_Scissors
+# Rock Paper Scissors
  A console application of the game Rock, Paper, Scissors.
  
  ***Languages used:***
